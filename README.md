@@ -8,7 +8,7 @@ Projects are organized into self-contained scripts or Streamlit apps, featuring 
 
 ## 📁 Project Descriptions
 
-### 🔹 `wine-prediction/`
+### 🔹 [wine-prediction](wine-prediction/)
 
 #### 🔍 Features
 
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 streamlit run wine_prediction.py
 ```
 
-### 🔹 `glass-type-prediction/`
+### 🔹 [glass-type-prediction](glass-type-prediction/)
 
 A classification project that predicts the **type of glass** based on its chemical composition using multiple machine learning algorithms.
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 python glass_prediction.py
 ```
 
-### 🔹 `cardio-prediction/`
+### 🔹 [cardio-prediction](cardio-prediction/)
 
 A machine learning project that predicts the risk of cardiovascular disease based on health-related features such as blood pressure, cholesterol, BMI, and more.
 
