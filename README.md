@@ -10,16 +10,18 @@ Projects are organized into self-contained scripts or Streamlit apps, featuring 
 ## 🗂️ Repository Structure
 
 MachineLearning/
-├─ README.md
-├─ wine-prediction/
-│ ├─ wine_prediction.py
-│ ├─ requirements.txt
-│ └─ README.md
-└─ glass-classifier/
-├─ glass_classifier.py
-├─ dataset/glass.csv
-├─ requirements.txt
-└─ README.md
+├── README.md                  # Main repository overview
+├── wine-prediction/          # Wine quality prediction project
+│   ├── wine_prediction.py    # Streamlit app & ML models
+│   ├── requirements.txt      # Python dependencies
+│   └── README.md             # Project-specific documentation
+├── glass-classifier/         # Glass type classification project
+│   ├── glass_classifier.py   # ML models and EDA
+│   ├── dataset/              # Dataset folder
+│   │   └── glass.csv         # Glass identification dataset
+│   ├── requirements.txt      # Python dependencies
+│   └── README.md             # Project-specific documentation
+
 
 ---
 
