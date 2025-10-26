@@ -74,10 +74,10 @@ python cardio_prediction.py
 ```
 
 ## 🧠 Goals
-✅ Practice data preprocessing, visualization, and model training
-✅ Compare classifier performance in simple datasets
-✅ Build interactive demos using Streamlit
-✅ Keep code clean, modular, and reproducible
+- Practice data preprocessing, visualization, and model training
+- Compare classifier performance in simple datasets
+- Build interactive demos using Streamlit
+- Keep code clean, modular, and reproducible
 
 ## 🔧 Tools Used
 Python
